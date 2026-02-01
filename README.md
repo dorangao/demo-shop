@@ -2,6 +2,10 @@
 
 A modern e-commerce demo built with Next.js 15, React 19, and TypeScript. Optimized for Vercel deployment with structured logging and best practices.
 
+## Live Demo
+
+**[https://demoshop.onengn.com](https://demoshop.onengn.com)**
+
 ## Features
 
 - **Product Catalog** - Browse and search products
@@ -39,7 +43,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/demo-server)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dorangao/demo-shop)
 
 Or deploy via CLI:
 
