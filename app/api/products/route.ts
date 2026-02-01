@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { products } from '@/lib/store'
+import { products } from '@/lib/products'
 import { apiLogger } from '@/lib/logger'
 
 export async function GET() {
